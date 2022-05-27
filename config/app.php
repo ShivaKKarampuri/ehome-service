@@ -148,7 +148,7 @@ return [
         Illuminate\View\ViewServiceProvider::class,
 		Collective\Html\HtmlServiceProvider::class,	
 		Kyslik\ColumnSortable\ColumnSortableServiceProvider::class,
-		Tzsk\Payu\Provider\PayuServiceProvider::class,
+		// Tzsk\Payu\Provider\PayuServiceProvider::class,
 		Barryvdh\DomPDF\ServiceProvider::class,
         // Laravel\Socialite\SocialiteServiceProvider::class,
         /*
